@@ -6,6 +6,8 @@
    ```bash
    python -m venv .venv
 
-.venv\Scripts\activate
+2. Activate it
+    .venv\Scripts\activate
 
-pip install -r requirements.txt
+3. install dependencies
+    pip install -r requirements.txt
